@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using numguess.Models.Domains;
 
+
 namespace numguess.Controllers
 {
     [Route("[controller]")]
@@ -12,17 +13,23 @@ namespace numguess.Controllers
         public IActionResult fetchDiffuculty([FromBody] difficulty payload)
         {
             string levelValue = payload.level;
-            if (levelValue=="hard")
+            SharedServices.StoredValue = payload.level; //this value gets stored in StoredValue that can be used in guess controller
+            
+            if (levelValue == "hard")
             {
-                return Ok("you chose " + levelValue + " difficulty");
+                return Ok();
             }
-            else if(levelValue=="medium")
+            else if (levelValue == "medium")
             {
-                return Ok("you chose " + levelValue + " difficulty");
+                return Ok();
+            }
+            else if (levelValue == "easy")
+            {
+                return Ok();
             }
             else
             {
-                return Ok("you chose " + levelValue + " difficulty");
+                return BadRequest("chose between easy||medium||hard");
             }
         }
 

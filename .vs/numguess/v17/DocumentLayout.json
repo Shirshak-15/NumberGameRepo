@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\controllers\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:controllers\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\models\\domains\\guessednum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:models\\domains\\guessednum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\controllers\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:controllers\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\controllers\\sharedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:controllers\\sharedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\models\\domains\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,6 +39,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "guessednum.cs",
+              "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Models\\Domains\\guessednum.cs",
+              "RelativeDocumentMoniker": "Models\\Domains\\guessednum.cs",
+              "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Models\\Domains\\guessednum.cs",
+              "RelativeToolTip": "Models\\Domains\\guessednum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T09:15:35.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SharedServices.cs",
+              "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\SharedServices.cs",
+              "RelativeDocumentMoniker": "Controllers\\SharedServices.cs",
+              "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\SharedServices.cs",
+              "RelativeToolTip": "Controllers\\SharedServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:56:26.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "guess.cs",
+              "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\guess.cs",
+              "RelativeDocumentMoniker": "Controllers\\guess.cs",
+              "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\guess.cs",
+              "RelativeToolTip": "Controllers\\guess.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T08:29:26.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "difficulty.cs",
               "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Models\\Domains\\difficulty.cs",
               "RelativeDocumentMoniker": "Models\\Domains\\difficulty.cs",
@@ -39,8 +90,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "numguess",
+              "DocumentIndex": 5,
+              "Title": "numguess.csproj",
               "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\numguess.csproj",
               "RelativeDocumentMoniker": "numguess.csproj",
               "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\numguess.csproj",
@@ -52,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "start.cs",
               "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\start.cs",
               "RelativeDocumentMoniker": "Controllers\\start.cs",
               "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\start.cs",
               "RelativeToolTip": "Controllers\\start.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T07:57:14.432Z",
               "EditorCaption": ""
