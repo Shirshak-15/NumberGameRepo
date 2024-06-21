@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:controllers\\guess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\models\\domains\\guessednum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:models\\domains\\guessednum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\controllers\\sharedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:controllers\\sharedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\controllers\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:controllers\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\controllers\\sharedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:controllers\\sharedservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\models\\domains\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:models\\domains\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\models\\domains\\guessednum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|solutionrelative:models\\domains\\guessednum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{93B32398-838C-4660-B3F5-4F9857827204}|numguess.csproj|c:\\users\\shirshak_saha\\desktop\\project\\numguess\\numguess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,7 +38,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "guessednum.cs",
               "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Models\\Domains\\guessednum.cs",
               "RelativeDocumentMoniker": "Models\\Domains\\guessednum.cs",
@@ -51,13 +51,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SharedServices.cs",
               "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\SharedServices.cs",
               "RelativeDocumentMoniker": "Controllers\\SharedServices.cs",
               "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\SharedServices.cs",
               "RelativeToolTip": "Controllers\\SharedServices.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T08:56:26.792Z",
               "EditorCaption": ""
@@ -70,20 +70,20 @@
               "RelativeDocumentMoniker": "Controllers\\guess.cs",
               "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\guess.cs",
               "RelativeToolTip": "Controllers\\guess.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAiwDgAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAABiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T08:29:26.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "difficulty.cs",
               "DocumentMoniker": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Models\\Domains\\difficulty.cs",
               "RelativeDocumentMoniker": "Models\\Domains\\difficulty.cs",
               "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Models\\Domains\\difficulty.cs",
               "RelativeToolTip": "Models\\Domains\\difficulty.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T08:06:12.981Z",
               "EditorCaption": ""
@@ -98,8 +98,7 @@
               "RelativeToolTip": "numguess.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-21T08:03:17.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T08:03:17.656Z"
             },
             {
               "$type": "Document",
@@ -109,7 +108,7 @@
               "RelativeDocumentMoniker": "Controllers\\start.cs",
               "ToolTip": "C:\\Users\\Shirshak_Saha\\Desktop\\Project\\numguess\\Controllers\\start.cs",
               "RelativeToolTip": "Controllers\\start.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T07:57:14.432Z",
               "EditorCaption": ""

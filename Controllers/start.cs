@@ -14,6 +14,7 @@ namespace numguess.Controllers
         {
             string levelValue = payload.level;
             SharedServices.StoredValue = payload.level; //this value gets stored in StoredValue that can be used in guess controller
+            SharedServices.StoredValue2 = payload.playerName;
             
             if (levelValue == "hard")
             {

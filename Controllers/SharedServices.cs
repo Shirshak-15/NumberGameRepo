@@ -3,5 +3,6 @@
     public class SharedServices
     {
         public static string StoredValue { get; set; }
+        public static string StoredValue2 { get; set; }
     }
 }
